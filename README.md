@@ -19,7 +19,7 @@ I have a passion for building `web applications` and `mobile applications` that 
 - HTML/CSS/JavaScript
 - React/Redux
 - Node.js/Express.js
-- SQL/NoSQL databases
+- SQL/NoSQL databases (MongoDB)
 - Git/Github
 - Flutter/Dart
 ## Contact Me
