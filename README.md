@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-Welcome to my Github repository! Here you will find my projects as a full stack software engineer. My name is **Basharat Mehdi**, and I have been working in the software engineering field for 1.5 years.
-
+Hi 👋, I'm **Basharat Mehdi**, welcome to my Github repository! Here you will find my projects as a full stack software engineer.
 I have a passion for building `web applications` and `mobile applications` that are user-friendly, responsive, and visually appealing. I specialize in developing full-stack web applications using technologies such as `HTML, css, NodeJs, ExpressJs, MongoDB, ReactJs, Redux, Flutter, Dart, etc.` and I am always eager to learn new technologies and frameworks.
 <!-- ## Projects
 ### [Project Name]
