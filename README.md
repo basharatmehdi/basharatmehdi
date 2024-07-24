@@ -27,7 +27,7 @@ If you're interested in working together or have any questions, feel free to rea
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/BasharatMehdi2) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=black)](https://twitter.com/BasharatMehdi2) 
 [![LinkedIn](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Linkedin&logoColor=white)](https://twitter.com/BasharatMehdi2) 
 
 ## 💻 Tech Stack:
